@@ -1,4 +1,4 @@
-// Imie, Nazwisko, grupa(specjalnosc), nr. indeksu
+// Krzysztof, Galle, Zintegrowane systemy zarz¹dzania i analizy danych, 101314
 
 class Kolo1 {
   public static void main(String[] args) {
